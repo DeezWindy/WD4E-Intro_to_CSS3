@@ -5,11 +5,11 @@ body {
 }
 
 header {
-    background-color: #e0e0e0;
+    background-color: #f8f8f8;
 }
 
 nav {
-    background-color: #d3d3d3;
+    background-color: #ffffff;
 }
 
 main {
@@ -18,7 +18,7 @@ main {
 }
 
 footer {
-    background-color: #e0e0e0;
+    background-color: #f8f8f8;
 }
 
 li {
@@ -29,7 +29,7 @@ li {
 h1 {
     text-align: center;
     font-family: Georgia, "Times New Roman", serif;
-    color: #111111;
+    color: #000000;
 }
 
 p {
